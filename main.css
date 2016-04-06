@@ -1,6 +1,8 @@
 .body{
-    height: 100dp;
+    background-color: aqua;
 }
-.h4{
+.header{
     text-align: center;
+
 }
+
